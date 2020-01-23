@@ -1,0 +1,9 @@
+{
+"db": "Database Name", 
+"server": "Db adress", 
+"user": "Db user",
+"password": "Db passwd",
+"sql1": "SELECT * FROM stats_puzzles_table_name",
+"table_name": "stats_puss;es_table_name",
+"chess_com_user": "your chess.com user"
+}
