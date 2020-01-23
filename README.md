@@ -9,5 +9,6 @@ How to:
 2. Edit config.dummy & rename to config.json,
 3. Edit config.json path in chess_scraping.py (if you want to run it by cron),
 4. Add it to crontab (crontab -e), for example (every 2 hours):
+
 0 */2 * * * python ~/chess_scraping.py >> ~/chess_scraping.log
 
