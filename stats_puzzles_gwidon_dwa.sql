@@ -1,4 +1,4 @@
-SELECT * FROM stats_puzzles_gwidon_dwa;CREATE TABLE `stats_puzzles_gwidon_dwa` (
+CREATE TABLE `stats_puzzles_gwidon_dwa` (
   `Date` datetime DEFAULT NULL,
   `ID` bigint(20) DEFAULT NULL,
   `Rating` bigint(20) DEFAULT NULL,
